@@ -1,0 +1,7 @@
+{
+  "name": "Newsroom CMS",
+  "description": "Modern editorial magazine and professional publishing CMS platform with pristine typography, content management, and SEO optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

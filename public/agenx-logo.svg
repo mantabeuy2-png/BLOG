@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <!-- Left Blue Chevron -->
+  <path
+    d="M 23 15 L 47 39 L 47 61 L 23 85 L 15 77 L 35 57 L 35 43 L 15 23 Z"
+    fill="#085493"
+  />
+  <!-- Right Crimson Chevron -->
+  <path
+    d="M 77 15 L 53 39 L 53 61 L 77 85 L 85 77 L 65 57 L 65 43 L 85 23 Z"
+    fill="#E40046"
+  />
+</svg>
